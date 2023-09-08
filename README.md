@@ -5,3 +5,5 @@
 ![Screenshot](screenshots/ScreenshotActivity2.png)
 ### Activity 3
 ![Screenshot](screenshots/ScreenshotActivity3.png)
+### Activity 4
+![Screenshot](screenshots/ScreenshotActivity4.png)
